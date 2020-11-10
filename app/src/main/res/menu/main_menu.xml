@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/line"
+        android:title="LINE FOLLOWER" />
+    <item
+        android:id="@+id/wifi"
+        android:title="WIFI BOT" />
+    <item
+        android:id="@+id/ultra"
+        android:title="ULTRASONIC" />
+</menu>
